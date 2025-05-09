@@ -20,7 +20,7 @@ RDR2 GPT-2 NEXT WORD PREDICTION
 - cd GPT2_RDR2_NextWord_AryanD
 
 2) Install dependencies:
--pip install torch transformers
+- pip install torch transformers
 
 3) Open the notebook:
 - Launch Jupyter or VS Code and open:
