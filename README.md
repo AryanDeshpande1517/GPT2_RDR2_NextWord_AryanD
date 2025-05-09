@@ -16,8 +16,8 @@ RDR2 GPT-2 NEXT WORD PREDICTION
 
 # How to Run:
 1) Clone the repository:
-- git clone https://github.com/AryanDeshpande1517/rdr2-gpt2-next-word.git
-- cd rdr2-gpt2-next-word
+- git clone https://github.com/AryanDeshpande1517/GPT2_RDR2_NextWord_AryanD.git
+- cd GPT2_RDR2_NextWord_AryanD
 
 2) Install dependencies:
 -pip install torch transformers
